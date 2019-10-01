@@ -20,7 +20,7 @@ img {
     text-align: center;
 }
 .search-radius{
-    border-radius: 18px
+    border-radius: 1.5rem;
 }
 .font-medium-1{
     font-size: 1.1rem!important;
@@ -49,6 +49,14 @@ height:50px;
 }
 .min-hgt{
     min-height: 527px;
+}
+.font-style{
+    line-height: 2rem;
+    font-size: 29px;
+    margin-top: -12px;
+}
+.my-button{
+    box-sizing: border-box
 }
 .card-head-sec{
     background: transparent;
@@ -127,3 +135,36 @@ a.logo-text span{
   ::-webkit-scrollbar-thumb:hover {
     background: #555;
   }
+  .blue-grey.darken-4 {
+    color: #263238!important;
+}
+font-medium-3 {
+    font-size: 1.3rem!important;
+}
+.d-none {
+    display: none;
+}
+.min-wtd{
+min-width: 6rem;
+}
+.bel-wtg{
+    min-width: 9rem;
+}   
+.text-uppercase{
+    text-transform: uppercase;
+}
+i.fa.fa-circle.font-small {
+    font-size: .8rem;
+}
+span.sales-detail {
+    font-family: sans-serif;
+}   
+
+.bt-size {
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 25px
+}
+.view-ra {
+    border-radius: 9px;
+}
